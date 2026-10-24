@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+matplotlib
+torch
+torchvision
+torchaudio
+python-multipart
+pydantic
+timm
+pillow
+opencv-python
+firebase-admin
+redis
+librosa
